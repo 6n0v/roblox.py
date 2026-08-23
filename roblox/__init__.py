@@ -3,7 +3,7 @@
 :license: MIT, see LICENSE for more details.
 """
 
-__title__ = 'pyblox'
+__title__ = 'arawe'
 __author__ = '6n0v'
 __license__ = 'MIT'
 __copyright__ = 'Copyright 2026-present 6n0v'

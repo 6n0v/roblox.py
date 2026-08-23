@@ -1,5 +1,5 @@
-pyblox
-=======
+arawe
+======
 
 A lightweight Python wrapper for the Roblox API focused on user data and economy.
 
@@ -26,10 +26,10 @@ To install the library, you can just run the following command:
 .. code:: sh
 
     # Linux/macOS
-    python3 -m pip install py-blox
+    python3 -m pip install arawe
 
     # Windows
-    py -3 -m pip install py-blox
+    py -3 -m pip install arawe
 
 Quick Example
 --------------

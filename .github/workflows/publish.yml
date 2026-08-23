@@ -12,7 +12,7 @@ jobs:
 
     environment:
       name: pypi
-      url: https://pypi.org/p/py-blox
+      url: https://pypi.org/p/arawe
 
     permissions:
       id-token: write
