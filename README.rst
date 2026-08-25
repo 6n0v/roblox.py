@@ -1,5 +1,11 @@
 arawe
 ======
+.. image:: https://img.shields.io/pypi/v/arawe.svg
+   :target: https://pypi.python.org/pypi/arawe
+   :alt: PyPI version info
+.. image:: https://img.shields.io/pypi/pyversions/arawe.svg
+   :target: https://pypi.python.org/pypi/arawe
+   :alt: PyPI supported Python versions
 
 A lightweight Python wrapper for the Roblox API focused on user data and economy.
 
